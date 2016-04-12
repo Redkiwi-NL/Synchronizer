@@ -25,10 +25,6 @@ WP_CLI::add_command( 'sync', $sync_command, [
 			'name'     => 'environment',
 			'optional' => false,
 			'multiple' => false
-		],
-		//        [
-		//            'type' => 'assoc',
-		//
-		//        ]
+		]
 	]
 ] );
