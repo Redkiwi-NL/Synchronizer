@@ -1,0 +1,26 @@
+{
+  "name": "redkiwi/synchronizer",
+  "description": "Synchronizing environments on the same server",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "JKetelaar",
+      "email": "ketelaar@redkiwi.nl"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-0": {
+      "JKetelaar": "src/"
+    },
+    "files": [
+      "command.php"
+    ]
+  },
+  "require": {},
+  "require-dev": {
+    "behat/behat": "~2.5",
+    "wp-cli/wp-cli": "0.22"
+  },
+  "version": "0.01"
+}
