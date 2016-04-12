@@ -10,8 +10,6 @@ if ( ! class_exists( 'WP_CLI' ) ) {
 /**
  * @param $args
  * @param $assoc_args
- *
- * @when before_wp_load
  */
 $sync_command = function ( $args, $assoc_args ) {
 
@@ -22,7 +20,7 @@ WP_CLI::add_command( 'sync', $sync_command, [
 	'synopsis'  => [
 		[
 			'type'     => 'positional',
-			'name'     => 'environment',
+			'name'     => 'env',
 			'optional' => false,
 			'multiple' => false
 		]
