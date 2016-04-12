@@ -1,6 +1,6 @@
 {
   "name": "redkiwi/synchronizer",
-  "description": "Synchronizing environments on the same server",
+  "description": "Synchronizing WordPress environments on the same server",
   "license": "MIT",
   "authors": [
     {
