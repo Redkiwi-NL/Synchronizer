@@ -3,7 +3,7 @@ redkiwi/synchronizer
 
 
 
-[![Build Status](https://travis-ci.org/redkiwi/synchronizer.svg?branch=master)](https://travis-ci.org/redkiwi/synchronizer)
+[![Build Status](https://api.travis-ci.org/Redkiwi-NL/Synchronizer.svg?branch=master)](https://travis-ci.org/Redkiwi-NL/Synchronizer)
 
 Quick links: [Installing](#installing) | [Contributing](#contributing)
 
@@ -17,4 +17,4 @@ Once you've done so, you can install this package with `wp package install redki
 
 Code and ideas are more than welcome.
 
-Please [open an issue](https://github.com/redkiwi/synchronizer/issues) with questions, feedback, and violent dissent. Pull requests are expected to include test coverage.
+Please [open an issue](https://github.com/redkiwi-nl/synchronizer/issues) with questions, feedback, and violent dissent. Pull requests are expected to include test coverage.
