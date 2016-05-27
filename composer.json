@@ -11,7 +11,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-0": {
-      "JKetelaar": "src/"
+      "Redkiwi": "src/"
     },
     "files": [
       "command.php"
